@@ -19,7 +19,7 @@ const Course = (props) => {
             {title}
           </Card.Text>
           <div>
-              <h5 className="mt-2">Price :{price}</h5>
+              <h5 className="mt-2">Price :{price} $</h5>
               <h5>Instructor : {created}</h5>
           </div>
         </Card.Body>
