@@ -1,0 +1,20 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(3, 3, 3);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(23, 221, 5);
+  }
+
+.navbar{
+    border:1px solid gray;
+    background-color :#fff;
+    box-shadow: 10px 5px 5px gray;
+
+}
